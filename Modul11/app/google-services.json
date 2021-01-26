@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785317095805",
+    "project_id": "fir-ppb2021-a55dd",
+    "storage_bucket": "fir-ppb2021-a55dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785317095805:android:8d07cb3b1b8ad511218414",
+        "android_client_info": {
+          "package_name": "com.intanayu_18102233.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785317095805-1gcmrlec68eh3gppaiqmr36au11ve646.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyx7duFx-jqiJQaKs9vYsOUXr6GGY-a2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785317095805-1gcmrlec68eh3gppaiqmr36au11ve646.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
